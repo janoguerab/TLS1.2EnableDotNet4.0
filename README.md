@@ -1,5 +1,5 @@
 # Enable TLS 1.2 in .Net 4.0
-Need to Modify or Add the Registers:
+Need to Modify or Add the Registers using th file "Habilitar TLS 1.2.Reg":
 
 Windows Registry Editor Version 5.00
 
